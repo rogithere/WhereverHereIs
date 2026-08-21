@@ -11,19 +11,21 @@ Hii there. Welcome to my blog and to time you'll never get back. Since you're he
 
 Enjoy ;)
 
-<div style="display: flex; gap: 3%; justify-content: space-between;">
-  <figure style="margin: 0; width: 31%;">
-    <img src="{{ site.baseurl }}/assets/images/Science.jpg" alt="Description 1" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">Summer of Science</figcaption>
-  </figure>
-  
-  <figure style="margin: 0; width: 31%;">
-    <img src="{{ site.baseurl }}/assets/images/rainbow.jpg" alt="Description 2" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">a thing somewhere sometime</figcaption>
-  </figure>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; margin: 20px 0;">
 
-  <figure style="margin: 0; width: 31%;">
-    <img src="{{ site.baseurl }}/assets/images/me.jpg" alt="Description 3" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">Me!</figcaption>
-  </figure>
+  <div style="flex: 1; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/science.jpg" alt="Photo 1" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px;">Summer of Science</p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/rainbow.jpg" alt="Photo 2" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px;">a thing somewhere sometime</p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/me.jpg" alt="Photo 3" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px;">me!</p>
+  </div>
+
 </div>
