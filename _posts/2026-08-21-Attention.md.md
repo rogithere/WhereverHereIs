@@ -8,7 +8,7 @@ tags:
 
 
 i have been thinking about stuff. A lot of thinking about a lot of stuff. So I decided to write it all up.   
-I’d like to write more often. Frequency requires brevity. Better to be brief & precise than ramble. Last time we raised the issue of desire. Some claims were put forward. Namely that instead of having many desires, we have one desire. Which latches on to stuff. This choice of conceptualization will become obvious when we discuss the dynamics of desire. That is the goal of this post   
+I’d like to write more often. Frequency requires brevity. Better to be brief & precise than ramble.  So we decided that instead of having many desires, we have one desire. Which latches on to stuff. This choice of conceptualization will become obvious when we discuss the dynamics of desire. That is the goal of this post   
   
 When there is one desire which latches onto things then in the least it should be manageable. If it’s manageable a lot of human suffering could be alleviated. Heck we could bring about world peace. Who knows! But how do we manage desire ? 
 
