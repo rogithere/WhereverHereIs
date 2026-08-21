@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "029b329c6df245b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e4bb31c7d7cb39a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b6229093bbac34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-08-20-hello-humans.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-20-hello-humans.md"
+            }
+          },
+          {
+            "id": "0eb1d2692dc6ce40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-08-21-Attention.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-21-Attention.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "667ebe249fbcc6cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "473a51aa50d4709f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a72c67ee9e7fc27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7588d9d87a905d43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "101a77042bd45649",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffecccbccea39131",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6eed089b2b135d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e752e7cf53f750f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2026-08-20-hello-humans.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0cc5e7ec5d063986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2026-08-20-hello-humans.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2ad3ed7504d231b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c99b2f0bbbc961b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8fe72d5dfa923416",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2026-08-20-hello-humans.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0eb1d2692dc6ce40",
+  "lastOpenFiles": [
+    "assets/images",
+    "assets",
+    "Untitled.md",
+    "_site/Untitled.md",
+    "_posts/2026-08-21-Attention.md.md",
+    "_posts/2026-08-20-hello-humans.md.md",
+    "blog.md.md",
+    "_site/blog/index.html",
+    "_site/blog",
+    "_site/blog.md.md",
+    "_site/2026/08/21/Attention.md.html",
+    "_site/2026/08/21",
+    "2026-08-22.md",
+    "_site/2026-08-22.md",
+    "_site/2026/08/20/hello-humans.md.html",
+    "_site/2026/08/20",
+    "_site/2026/08",
+    "_site/2026",
+    "_posts/2026-08-20-Hello-Humans.md/2026-06.md",
+    "2026-08-20.md",
+    "_config.yml.md",
+    "Untitled 1",
+    "_site/README.md",
+    "_site/2026-08-20.md",
+    "_site/2026-08-20MyfirstPost.md/Hello Humans.md",
+    "_site/2026-08-20MyfirstPost.md",
+    "_site/Hello Humans.md",
+    "_posts/2026-08-20-Hello-Humans.md"
+  ]
+}
