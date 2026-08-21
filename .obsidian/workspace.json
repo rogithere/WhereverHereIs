@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-21-Attention.md.md",
+                "file": "_posts/2026-08-20-hello-humans.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-21-Attention.md"
+              "title": "2026-08-20-hello-humans.md"
             }
           }
         ],
@@ -205,11 +205,13 @@
   },
   "active": "0eb1d2692dc6ce40",
   "lastOpenFiles": [
+    "_posts/2026-08-21-Attention.md.md",
+    "about.md",
+    "index.md",
     "assets/images",
     "assets",
     "Untitled.md",
     "_site/Untitled.md",
-    "_posts/2026-08-21-Attention.md.md",
     "_posts/2026-08-20-hello-humans.md.md",
     "blog.md.md",
     "_site/blog/index.html",
@@ -226,7 +228,6 @@
     "_posts/2026-08-20-Hello-Humans.md/2026-06.md",
     "2026-08-20.md",
     "_config.yml.md",
-    "Untitled 1",
     "_site/README.md",
     "_site/2026-08-20.md",
     "_site/2026-08-20MyfirstPost.md/Hello Humans.md",
