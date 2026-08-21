@@ -7,7 +7,7 @@ tags:
 ---
 
 
-Hello Humans. Welcome to my blog and to time you'll never get back. Since you're here feel free to browse. If you love it, let me know. If you don't please tell me. It will make me stronger in fighting the forces of evil. This space will be used to journal, work out ideas and write - everything I want to send out into the airwaves. 
+Hii there! Welcome to my blog and to time you'll never get back. Since you're here feel free to browse. If you love it, let me know. If you don't please tell me. It will make me stronger in fighting the forces of evil. This space will be used to journal, work out ideas and write - everything I want to send out into the airwaves. 
 Enjoy ;)
 
 
