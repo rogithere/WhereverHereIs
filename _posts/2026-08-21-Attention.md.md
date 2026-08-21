@@ -27,7 +27,7 @@ One also learns in due course that not all ways of thinking about our experience
   
 Disease is diagnosed and meds prescribed. We’re still have to figure out how to take the medication. In other words, what does thinking about experience consist of ? Let us crack the meta and think about thinking about our actions! Whatever we think about we desire. Either we desire to think about it or the thing itself. The order does not matter for now. It is only important that this tracks with our experience. Thoughts always need an object as their focus. As long as this world exists and we’re alive, thoughts and feelings will also exist. Objects evoke certain feelings. These feelings can be pleasant, unpleasant or neutral. We react to these feelings with desire, aversion or neutrality. The 2nd order feelings that follow are hope, fear & neutrality. This chain reaction forms a habit. This is nothing else but desire. These objects that persistently dwell within our mind, brought to its attention by our sense like sheaves of reeds bent by the heavy gusts, force us into habitual patterns. This essentially decides our orientation toward objects we desire. 
 
-Well at least I have a basic framework to develop this idea further. Let’s see how it goes. Next time I’ll write about rainbows and sunshine and some cool science stuff I get to work on.
+Hopefully I can develop this further. Let’s see how it goes. Next time I’ll write about rainbows and sunshine and some cool science stuff I get to work on.
 
 
 
