@@ -22,8 +22,8 @@ title: Wherever Here is
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This space will be used to journal, work out ideas and write. Everything I want to send out into the airwaves. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://rogithere.github.io" # the subpath of your site, e.g. /blog
+url: "/WhereverHereIs" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
