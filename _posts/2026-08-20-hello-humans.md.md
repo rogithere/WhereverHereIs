@@ -14,18 +14,19 @@ Hii there. Welcome to my blog and to time you'll never get back. Since you're he
 
 Enjoy ;)
 
-<div style="display: flex; gap: 10px;">
-<figure style="margin: 0; width: 48%;">
-  <img src="{{ site.baseurl }}/assets/images/Summer of science.jpg" alt="Description 1" style="width: 48%; height: auto;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">Summer of Science</figcaption></figure>
+<div style="display: flex; gap: 3%; justify-content: space-between;">
+  <figure style="margin: 0; width: 31%;">
+    <img src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="Description 1" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">Summer of Science</figcaption>
   </figure>
-<figure style="margin: 0; width: 48%;">
-  <img src="{{ site.baseurl }}/assets/Rainbow.jpg" alt="Description 2" style="width: 48%; height: auto;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">Wherever here was</figcaption></figure>
+  
+  <figure style="margin: 0; width: 31%;">
+    <img src="{{ site.baseurl }}/assets/images/photo2.jpg" alt="Description 2" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">a thing somewhere sometime</figcaption>
   </figure>
-  <figure style="margin: 0; width: 48%;">
-  <img src="{{ site.baseurl }}/assets/me.jpg" alt="Description 3" style="width: 48%; height: auto;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">Me!</figcaption></figure>
+
+  <figure style="margin: 0; width: 31%;">
+    <img src="{{ site.baseurl }}/assets/images/photo3.jpg" alt="Description 3" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">Me!</figcaption>
   </figure>
 </div>
-
