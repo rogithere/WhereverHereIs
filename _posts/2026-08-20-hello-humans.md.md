@@ -14,5 +14,9 @@ Hii there. Welcome to my blog and to time you'll never get back. Since you're he
 
 Enjoy ;)
 
-<div style="display: flex; gap: 10px;"> <img src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="Description 1"style="width: 48%; height: auto;"> <img src="{{ <img src="{{ site.baseurl }}/assets/images/photo1.jpg" style="width: 48%; height: auto;"> </div>
+<div style="display: flex; gap: 10px;">
+  <img src="{{ site.baseurl }}/assets/images/Summer of science.jpg" alt="Description 1" style="width: 48%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/Rainbow.jpg" alt="Description 2" style="width: 48%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/me.jpg" alt="Description 2" style="width: 48%; height: auto;">
+</div>
 
