@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-21-Attention.md.md",
+                "file": "_posts/2026-08-20-hello-humans.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-21-Attention.md"
+              "title": "2026-08-20-hello-humans.md"
             }
           }
         ],
@@ -205,9 +205,9 @@
   },
   "active": "0eb1d2692dc6ce40",
   "lastOpenFiles": [
+    "_posts/2026-08-21-Attention.md.md",
     "assets/images/buddha.jpg",
     "_posts/2026-08-20-hello-humans.md.md",
-    "_posts/2026-08-21-Attention.md.md",
     "assets/images/lake.jpg",
     "assets/images/food.jpg",
     "assets/images/IMG_1126.jpg",
@@ -217,7 +217,6 @@
     "assets/images/IMG_9801.jpg",
     "assets/images/IMG_0221.jpg",
     "assets/images/IMG_0959.jpg",
-    "assets/images/IMG_1140.jpg",
     "{{.md",
     "index.markdown",
     "about.md",
