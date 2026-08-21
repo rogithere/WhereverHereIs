@@ -10,8 +10,8 @@ categories: journal
 
 
 
-I like stuff. I want stuff. Wanting stuff is the primary preoccupation of our species. It is impossible to discard. There’s our first problem. Secondly when we conceptualize this process as having wants (or needs) there is a ‘wanter(A)’ and the thing(B) that is wanted. What is the relationship between A & B ? If we forbid some claim about the individual psychology of A then we must provide a more general explanation of A & B. This makes sense because of the generality of this experience. So commonplace explanations won’t do.   
-Allow me to bring in ‘new’ description of the above phenomenon. New for this blog. If I say we have desires and it attaches to things in this world, this tells us a little more about how A & B interact. This obviously makes many many assumptions about the nature of A & B. Lets set that aside for now. We’ll deal with that at some later time. 
+I like stuff. I want stuff. Wanting stuff is the primary preoccupation of our species. It is impossible to discard. There’s our first problem. Secondly when we conceptualize this process as having wants (or needs) there is a ‘wanter(A)’ and the thing(B) that is wanted. What is the relationship between A & B ? If we restrict ourselves from making ad hoc claims about the individual psychology of A then we must provide a more general explanation of interaction of A & B. This makes sense because of the generality of this experience.    
+So I'll introduce a ‘relatively new’ description of the above phenomenon. (I'm punk rock like that).  New for us anyway.  If I say we have desires and it attaches to things in this world, this tells us a little more about how A & B interact. This obviously makes many many assumptions about the nature of A & B. Lets set that aside for now. We’ll deal with that at some later time. 
 
 Now when we say we have desires which attach to things, then a human being would have infinite desires. This is because of the following reasons -   
 1. There are infinite things in the world
